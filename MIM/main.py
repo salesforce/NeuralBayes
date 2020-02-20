@@ -1,6 +1,6 @@
 __author__ = 'Devansh Arpit'
 '''
-Neural Bayes- Mutual Information Maximization (LAGNet-MIM)
+Neural Bayes- Mutual Information Maximization (MIM)
 
 '''
 from argparse import Namespace

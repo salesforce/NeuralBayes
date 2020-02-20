@@ -35,7 +35,7 @@ parser.add_argument('--save_dir', type=str, default='0/',
 parser.add_argument('--state', type=int, default=-1,
                     help='which hidden state to use')
 parser.add_argument('--rand', action='store_true',
-                    help='use random network instead of loading a stored LAGNet model for extracting features')
+                    help='use random network instead of loading a stored model for extracting features')
 parser.add_argument('--hid', type=int, nargs='+', default=[],
                     help='hid dim if nonlin clf is used')
 
