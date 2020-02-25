@@ -1,4 +1,4 @@
-This is the code used for the Mutual Information Maximization (MIM) objective.
+## This is the code used for the Mutual Information Maximization (MIM) objective.
 
 To produce the accuracy reported on CIFAR-10, first learn the representation network using the Neural Bayes MIM objective:
 
